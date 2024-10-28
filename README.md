@@ -18,7 +18,11 @@
 |🚗자동차 경주|[javascript-racingcar](https://github.com/chysis/javascript-racingcar)|[Step 1](https://github.com/woowacourse/javascript-racingcar/pull/279) <br> [Step 2](https://github.com/woowacourse/javascript-racingcar/pull/306)|
 |🎫로또|[javascript-lotto](https://github.com/chysis/javascript-lotto)|[Step 1](https://github.com/woowacourse/javascript-lotto/pull/293) <br> [Step 2](https://github.com/woowacourse/javascript-lotto/pull/333)|
 |🍴점심 뭐 먹지|[javascript-lunch](https://github.com/chysis/javascript-lunch)|[Step 1](https://github.com/woowacourse/javascript-lunch/pull/133) <br> [Step 2](https://github.com/woowacourse/javascript-lunch/pull/178)|
-|🎥영화 리뷰|[javascript-movie-review](https://github.com/chysis/javascript-movie-review)|[Step 1](https://github.com/woowacourse/javascript-movie-review/pull/136) <br> [Step 2](https://github.com/woowacourse/javascript-movie-review/pull/176)| 
+|🎥영화 리뷰|[javascript-movie-review](https://github.com/chysis/javascript-movie-review)|[Step 1](https://github.com/woowacourse/javascript-movie-review/pull/136) <br> [Step 2](https://github.com/woowacourse/javascript-movie-review/pull/176)|
+
+### 📖 스터디 - 나무심기
+- 매일 알고리즘 문제를 한 문제씩 풀면서 문제 풀이 습관을 이어나가는 스터디 (레벨 1부터 진행 중)
+- 활동 기록: [solved.ac 프로필](https://solved.ac/profile/chysis)
 
 ## 레벨 2
 ### 학습 목표
