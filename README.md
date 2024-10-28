@@ -35,7 +35,7 @@
 |🧺장바구니|[react-shopping-cart](https://github.com/chysis/react-shopping-cart)|[Step 1](https://github.com/woowacourse/react-shopping-cart/pull/282) <br> [Step 2](https://github.com/woowacourse/react-shopping-cart/pull/307)|
 |📦상품 목록|[react-shopping-products](https://github.com/chysis/react-shopping-products)|[Step 1](https://github.com/woowacourse/react-shopping-products/pull/7) <br> [Step 2](https://github.com/woowacourse/react-shopping-products/pull/79)|
 
-### 스터디 - 리액트 & CS 스터디
+### 📖 스터디 - 리액트 & CS 스터디
 - 매주 주제를 한 가지 선정하고 학습한 뒤, 월요일마다 발표하는 스터디
 - 활동 기록: [notion 바로가기](https://chysis.notion.site/327be0518a3048fc9e2c2bb096989a34?pvs=4)
 
@@ -98,6 +98,10 @@
 |미션|Repository|PR & Reviews|
 |:--:|:--:|:--:|
 |영화 목록 페이지|[react-ssr](https://github.com/chysis/react-ssr)|[Step 1 - SSR 기반 영화 목록 페이지](https://github.com/woowacourse/react-ssr/pull/11) <br> [Step 2 - 유니버셜 렌더링](https://github.com/woowacourse/react-ssr/pull/68)|
+
+### 📖 스터디 - 토론 스터디 (진행 중)
+- 테크 컨퍼런스 영상을 함께 시청하고 토론하는 스터디
+- 활동 기록: [notion 바로가기](https://chysis.notion.site/8febc55335bb47469791fd6d2afe198a)
 
 ## 글쓰기 미션
 ### 유연성 강화 스터디 글쓰기
