@@ -112,6 +112,7 @@
 |레벨 3|[레벨 3 글쓰기](https://github.com/chysis/woowa-writing/blob/level3/level3.md)|
 
 ### 테크니컬 라이팅
+(진행 중)
 
 ## 테코톡
 [에프이의 useReducer](https://www.youtube.com/watch?v=xnlCNIpzQq0&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=72&t=196s)
