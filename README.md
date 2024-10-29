@@ -1,4 +1,4 @@
-# woowacourse-archiving
+# woowacourse-archive
 
 우아한테크코스 6기 활동 기록 모아보기✨
 ## 활동 기간
