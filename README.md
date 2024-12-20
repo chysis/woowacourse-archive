@@ -116,7 +116,7 @@
 |레벨 3|[레벨 3 글쓰기](https://github.com/chysis/woowa-writing/blob/level3/level3.md)|
 
 ### 테크니컬 라이팅
-(진행 중)
+[Webpack 기반의 리액트, 타입스크립트 프로젝트 초기 개발 환경 구축](https://github.com/chysis/woowa-writing/blob/level4/technical-writing.md)
 
 ## 테코톡
 [에프이의 useReducer](https://www.youtube.com/watch?v=xnlCNIpzQq0&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=72&t=196s)
