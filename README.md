@@ -103,7 +103,7 @@
 |:--:|:--:|:--:|
 |영화 목록 페이지|[react-ssr](https://github.com/chysis/react-ssr)|[Step 1 - SSR 기반 영화 목록 페이지](https://github.com/woowacourse/react-ssr/pull/11) <br> [Step 2 - 유니버셜 렌더링](https://github.com/woowacourse/react-ssr/pull/68)|
 
-### 📖 스터디 - 토론 스터디 (진행 중)
+### 📖 스터디 - 토론 스터디
 - 테크 컨퍼런스 영상을 함께 시청하고 토론하는 스터디
 - 활동 기록: [notion 바로가기](https://chysis.notion.site/8febc55335bb47469791fd6d2afe198a)
 
