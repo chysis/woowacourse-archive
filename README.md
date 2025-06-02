@@ -119,4 +119,4 @@
 [Webpack 기반의 리액트, 타입스크립트 프로젝트 초기 개발 환경 구축](https://github.com/chysis/woowa-writing/blob/level4/technical-writing.md)
 
 ## 테코톡
-[에프이의 useReducer](https://www.youtube.com/watch?v=xnlCNIpzQq0&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=72&t=196s)
+[에프이의 useReducer](https://www.youtube.com/watch?v=xnlCNIpzQq0)
